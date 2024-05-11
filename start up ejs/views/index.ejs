@@ -1,0 +1,10 @@
+
+<ul>
+    <% for(var person of people) { %>
+        <% if(person.name === 'dave') { %>
+            <li> Yoo, this is <%= person.name %> </li>
+        <% } else { %>
+            <li> This is not dave! It's <%= person.name %> </li>
+       <% } %>
+    <% } %>
+</ul>

@@ -1,0 +1,8 @@
+
+1. express intro and ejs
+2. Evaluating variable
+3. Injecting values into the views
+4. looping and Arrays
+5. if/Else
+6. layout
+7. Paritials
